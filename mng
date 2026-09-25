@@ -6,8 +6,8 @@
 <title>我的网站</title>
 </head>
 <body style="font-family:sans-serif;padding:20px;">
-<h1>你好，这是我的网站</h1>
+<<p>别人点链接也能看到。</p>
 <p>我用手机做的。</p>
-<p>别人点链接也能看到。</p>
+<p>谢谢查看。</p>
 </body>
 </html>
